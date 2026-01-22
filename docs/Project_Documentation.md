@@ -25,12 +25,12 @@ The goal is to learn real development workflows while keeping things simple and 
 
 ```bash
    git clone <repo-url>
+```
 
 
 
-
-📄 Git Command List (Quick Reference)
-
+# 2\.📄 Git Command List (Quick Reference)
+```
 * git clone <repo-url> – Download a repository to your computer
 * git pull – Get the latest changes from GitHub
 * git branch – List all local branches
@@ -47,3 +47,4 @@ The goal is to learn real development workflows while keeping things simple and 
 * git stash pop – Restore stashed changes
 * git restore <file> – Undo changes in a file
 * git reset --hard – Reset your branch to the last commit (dangerous)
+```
