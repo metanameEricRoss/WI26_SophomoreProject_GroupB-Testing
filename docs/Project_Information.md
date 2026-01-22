@@ -1,22 +1,14 @@
 # **Project**
 
-
-* ### **Members** 
-
-
+### **Members** 
 
 ##### **Team Leader**: Mariam
 
-
-
 #### **Back-End -- Dev Team 1**:  \[ Eric, Jorge, x ]
-
-
 
 #### **Front-End -- Dev Team 2** : \[ Manideep, x ]
 
-
-* ### **Team Meetings:**
+### **Team Meetings:**
 
 ###### (Online) -- Friday - 3:45 pm (Change.)
 
@@ -37,7 +29,7 @@
 
 
 
-#### **Software:**
+### **Software:**
 
 * GIT / GitHub
 * [Scribble](https://scribe.com/library/product-documentation)
