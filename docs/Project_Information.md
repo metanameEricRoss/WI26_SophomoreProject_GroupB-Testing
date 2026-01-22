@@ -23,11 +23,9 @@
 
 ### **Project (Sprints):**
 
+#### **Game**
 
-
-* ##### **Game**
-
-######  	- 2D is easier to code and makes cooler functionality.
+  	- 2D is easier to code and makes cooler functionality.
 
  	 - map generator Algorithm and randomizer style enemy.
 
@@ -35,41 +33,19 @@
 
  	 - modular game loop.
 
- 	 - **Gudot** for development.
-
-##### 
-
-* ##### **Smaller Project { smaller scale}**
-
-         -
+ 	 - **Gudot**
 
 
 
-##### **Software:**
-
-
+#### **Software:**
 
 * GIT / GitHub
 * [Scribble](https://scribe.com/library/product-documentation)
 * [Scrum](https://www.atlassian.com/agile/scrum)
 * Gudot?
-* 
-
-
-
-
-
-##### **Git Repository:**   --{URL}-- (Jorge)
-
-* ###### Host Name:
-
-
-
 
 
 ## **Teammates (Group B):**
-
-
 
 1. ##### **Eric Ross ==**
 
@@ -81,9 +57,7 @@
 
 
 
-
-
-##### 2\. **Mariam Sajjad ==**
+2. ##### **Mariam Sajjad ==**
 
 ###### Contact: msajjad@oakland.edu
 
@@ -93,7 +67,7 @@
 
 
 
-##### 3\. **Manideep Thalla ==**
+3. ##### **Manideep Thalla ==**
 
 ###### Contact: manideepthalla@oakland.edu
 
@@ -103,9 +77,7 @@
 
 
 
-
-
-##### 4. **Jorge Jaquez ==**
+4. ##### **Jorge Jaquez ==**
 
 ###### Contact: jterrazasjaquez@oakland.edu
 
@@ -115,7 +87,7 @@
 
 
 
-##### 5\. **Sebastian Stanaj  ==**
+5. ##### **Sebastian Stanaj  ==**
 
 ###### Contact: sebastianstanaj@oakland.edu
 
@@ -125,7 +97,7 @@
 
 
 
-##### 6\. **Hunter Goldman  ==**
+6. ##### **Hunter Goldman  ==**
 
 ###### Contact: hgoldon@oakland.edu
 
