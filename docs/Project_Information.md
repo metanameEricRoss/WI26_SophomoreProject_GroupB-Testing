@@ -1,7 +1,4 @@
-# **Projects**
-
-
-
+# **Project**
 
 
 * ### **Members** 
@@ -12,41 +9,29 @@
 
 
 
-##### **Back-End -- Dev Team 1**:  \[ Eric, Jorge, x ]
+#### **Back-End -- Dev Team 1**:  \[ Eric, Jorge, x ]
 
 
 
-##### **Front-End -- Dev Team 2** : \[ Manideep, x ]
+#### **Front-End -- Dev Team 2** : \[ Manideep, x ]
 
 
+* ### **Team Meetings:**
+
+###### (Online) -- Friday - 3:45 pm (Change.)
 
 
-
-##### **Team Meetings:**
-
-
-
-###### (in-person) -- Friday - 2:30 pm (Change.)
-
-###### (Online) -- Another day?
-
-
-
-
-
-
-
-### **Project (Sprints) :**
+### **Project (Sprints):**
 
 
 
 * ##### **Game**
 
-######  	- 2D easier to code and make cooler functionality.
+######  	- 2D is easier to code and makes cooler functionality.
 
  	 - map generator Algorithm and randomizer style enemy.
 
- 	 - Multiple AI behavior.
+ 	 - Multiple AI behaviors.
 
  	 - modular game loop.
 
