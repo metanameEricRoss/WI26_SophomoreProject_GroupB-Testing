@@ -8,34 +8,13 @@
 
 #### **Front-End -- Dev Team 2** : \[ Manideep, x ]
 
-### **Team Meetings:**
-
-###### (Online) -- Friday - 3:45 pm (Change.)
-
-
 ### **Project (Sprints):**
-
-#### **Game**
-
-  	- 2D is easier to code and makes cooler functionality.
-
- 	 - map generator Algorithm and randomizer style enemy.
-
- 	 - Multiple AI behaviors.
-
- 	 - modular game loop.
-
- 	 - **Gudot**
-
-
 
 ### **Software:**
 
 * GIT / GitHub
 * [Scribble](https://scribe.com/library/product-documentation)
 * [Scrum](https://www.atlassian.com/agile/scrum)
-* Gudot?
-
 
 ## **Teammates (Group B):**
 
@@ -53,7 +32,7 @@
 
 ###### Contact: msajjad@oakland.edu
 
-###### Role:
+###### Role: Leader 
 
 ###### Skills:
 
