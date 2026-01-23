@@ -1,22 +1,14 @@
 # **Project**
 
+### **Members** 
 
-* ### **Members** 
-
-
-
-##### **Team Leader**: Mariam
-
-
+#### **Team Leader**: Mariam
 
 #### **Back-End -- Dev Team 1**:  \[ Eric, Jorge, x ]
 
-
-
 #### **Front-End -- Dev Team 2** : \[ Manideep, x ]
 
-
-* ### **Team Meetings:**
+### **Team Meetings:**
 
 ###### (Online) -- Friday - 3:45 pm (Change.)
 
@@ -37,7 +29,7 @@
 
 
 
-#### **Software:**
+### **Software:**
 
 * GIT / GitHub
 * [Scribble](https://scribe.com/library/product-documentation)
@@ -47,7 +39,7 @@
 
 ## **Teammates (Group B):**
 
-1. ##### **Eric Ross ==**
+1. **Eric Ross ==**
 
 ###### Contact: ericross@oakland.edu
 
@@ -57,7 +49,7 @@
 
 
 
-2. ##### **Mariam Sajjad ==**
+2. **Mariam Sajjad ==**
 
 ###### Contact: msajjad@oakland.edu
 
@@ -67,7 +59,7 @@
 
 
 
-3. ##### **Manideep Thalla ==**
+3. **Manideep Thalla ==**
 
 ###### Contact: manideepthalla@oakland.edu
 
@@ -77,7 +69,7 @@
 
 
 
-4. ##### **Jorge Jaquez ==**
+4. **Jorge Jaquez ==**
 
 ###### Contact: jterrazasjaquez@oakland.edu
 
@@ -87,7 +79,7 @@
 
 
 
-5. ##### **Sebastian Stanaj  ==**
+5. **Sebastian Stanaj  ==**
 
 ###### Contact: sebastianstanaj@oakland.edu
 
@@ -97,7 +89,7 @@
 
 
 
-6. ##### **Hunter Goldman  ==**
+6. **Hunter Goldman  ==**
 
 ###### Contact: hgoldon@oakland.edu
 
