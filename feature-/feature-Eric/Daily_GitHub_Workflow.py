@@ -79,6 +79,7 @@ if mode == 0: #=============================================================
     print(f'Creating and switching to branch: {feature_branch}')
     run_command(f"git checkout {feature_branch}") #-b creates a new branch. *Removed
     pause()
+    run_command(f"git pull origin {feature_branch}") # added feature- branch pull
     print("\nBranch ready.")
 
 
