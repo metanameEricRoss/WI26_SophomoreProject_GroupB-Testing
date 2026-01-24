@@ -36,45 +36,7 @@
 7. **Skill Matching Engine**
 8. **Email Alerts** for different notifications.
 9. **AI Personalization Layer** - Once the user selects a job, the AI will start building a resume for them based on questions.
-
-## Visual Layout
-
-┌──────────────────────────────┐
-│      Job Board APIs          │
-└───────────────┬──────────────┘
-                │
-┌───────────────▼──────────────┐
-│        Web Scraper           │
-│   (BeautifulSoup / Selenium) │
-└───────────────┬──────────────┘
-                │
-┌───────────────▼──────────────┐
-│      Data Normalization      │
-└───────────────┬──────────────┘
-                │
-┌───────────────▼──────────────┐
-│    Keyword Extraction (NLP)  │
-└───────────────┬──────────────┘
-                │
-┌───────────────▼──────────────┐
-│          Database            │
-│     (SQLite → SQLAlchemy)    │
-└───────────────┬──────────────┘
-                │
-        ┌───────┴────────┬──────────────────────┐
-        │                │                      │
-┌───────▼──────┐   ┌──────▼────────┐     ┌───────▼────────┐
-│ Skill Match  │   │  Email Alerts │     │   AI Assistant │
-└───────┬──────┘   └──────┬────────┘     └───────┬────────┘
-        │                 │                      │
-        └──────────┬──────┴──────────────────────┘
-                   │                     
-          ┌────────▼────────┐   
-          │   FastAPI API   │   
-          └─────────────────┘   
-
-
-
+  
 ## **Teammates (Group B):**
 
 1. **Eric Ross ==**
