@@ -9,6 +9,7 @@ def pause():
 # Run a shell command and print result
 def run_command(command):
     result = subprocess.run(command, shell=True, capture_output=True, text=True)
+
     if result.returncode == 0:
         print(f"Success: {command}")
     else:
@@ -33,16 +34,30 @@ while True: #=============================================================
     except ValueError:
         print("Invalid input. Please enter 0 or 1.")
         pause()
-        pass 
-        
-    
+        continue   # changed: pass --> continue.
+
     feature_branch = input("Enter your feature branch name(example- 'feature-Eric'): ")
+
+    # NEW: Validate branch exists before continuing
+    check_branch = subprocess.run(
+        f"git rev-parse --verify {feature_branch}",
+        shell=True,
+        capture_output=True,
+        text=True
+    )
+    if check_branch.returncode != 0:
+        print(f"Error: Branch '{feature_branch}' does not exist.")
+        pause()
+        print("Restarting...\n")
+        continue  # restart input loop
+
     # Confirm inputs if 'n' restart loop
     confirm = input(f"You selected mode {mode} for branch '{feature_branch}'. Confirm? (y/n): ")
 
     if confirm.lower() == 'y':
         break  # Exit the loop and continue the script
     else:
+
         print("Restarting...")
         pause()
 
@@ -62,9 +77,10 @@ if mode == 0: #=============================================================
     run_command("git pull")
     pause()
     print(f'Creating and switching to branch: {feature_branch}')
-    run_command(f"git checkout -b {feature_branch}")
+    run_command(f"git checkout {feature_branch}") #-b creates a new branch. *Removed
     pause()
     print("\nBranch ready.")
+
 
 
 
@@ -88,7 +104,7 @@ elif mode == 1: #=============================================================
     check = input(f"{commit_msg} -- (y/n): ")
 
     if check.lower() != 'y':
-        print("Commit cancelled.")  
+        print("Commit cancelled.")
     else:
         print("\nCommitting and pushing...")
         pause()
@@ -103,4 +119,3 @@ elif mode == 1: #=============================================================
 # Invalid mode
 else: #=============================================================
     print("Invalid mode. Use 0 or 1.")
-
