@@ -5,10 +5,23 @@
 
 1. **Language:**
 
+- Java -- []
+- C++ -- []
+- Pyhton -- []
+
 2. **Project Idea:**
 
-3. **Groups:**
+- Game? -- [] 
+- Career Helper? -- []
+
+3. **Groups Teams:**
+
+- dev1_FrontEnd -- ( ,  )
+-  dev2_BackEnd -- (Eric, , )
 
 4. **Timeline:**
+
+- Check Points.
+- Routine Meetings?
 
 
