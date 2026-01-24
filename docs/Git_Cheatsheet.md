@@ -35,6 +35,8 @@ git commit -m "FEATURE: add login form"
 ```
 git push origin feature-<yourname>
 ```
+<img width="1215" height="733" alt="image" src="https://github.com/user-attachments/assets/f4c95353-0698-49a7-b175-efcfc5782e00" />
+
 ### Step 6: Open a Pull Request
 Go to GitHub → Compare & Pull Request → Assign reviewer
 >> 1. Go to Github
