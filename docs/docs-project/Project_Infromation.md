@@ -23,10 +23,12 @@
 > Using Python.
 #### Build Plan.
 1. **Job board API** (if possible.)
+     - Look into how to scrape from websites.
+
 2. **Build a Scraper using Python** (If not possible.)
    - BeautifulSoap 
    - Selenium / Playwright (static and dynamic pages)
-4. **Normalize Data** Give a unified structure to scraped data.
+3. **Normalize Data** Give a unified structure to scraped data.
 5. **Keyword Extraction**  Build  a "required skill" column. *NLP critical feature*
 6. **Database** Store Data in a Database.
    - SQLite - Data is stored in a single file, locally, and is very lightweight.
