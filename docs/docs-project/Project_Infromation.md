@@ -2,8 +2,9 @@
 
 ## Groups
 #### **Team Leader**: Mariam
-#### **Back-End -- Dev Team 1**:  \[ Eric, Jorge, x ]
-#### **Front-End -- Dev Team 2** : \[ Manideep, x ]
+#### **Back-End -- Dev Team 1**:  \[ Eric, Jorge]
+#### **Front-End -- Dev Team 2** : \[ Sebastian, Alex]
+#### **Quality-Tester** : \[Manideep]
 
 
 ### **PM Software:**
