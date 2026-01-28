@@ -3,7 +3,7 @@
 ## Groups
 #### **Team Leader**: Mariam
 #### **Back-End -- Dev Team 1**:  \[ Eric, Jorge]
-#### **Front-End -- Dev Team 2** : \[ Sebastian, Alex]
+#### **Front-End -- Dev Team 2** : \[ Sebastian, Hunter]
 #### **Quality-Tester** : \[Manideep]
 
 
